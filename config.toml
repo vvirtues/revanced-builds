@@ -95,10 +95,14 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/soundcloud/soundcloud-soundclou
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [Sync]
+app-name = "Sync for Reddit"
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
 included-patches = "'Use /user/ endpoint'"
 patcher-args = "-Oclient-id=mhPFEH6fpBTsSfxX1Xtl6g "
 
 [InfinityforReddit]
+app-name = "Infinity for Reddit"
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 patcher-args = "-Oclient-id=1NRa9TnZlRveAxB0CGh6zQ "
