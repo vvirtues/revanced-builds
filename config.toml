@@ -99,6 +99,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
 included-patches = "'Use /user/ endpoint'"
 patcher-args = "-Oclient-id=mhPFEH6fpBTsSfxX1Xtl6g "
 
-[Infinity for Reddit]
+[InfinityforReddit]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 patcher-args = "-Oclient-id=1NRa9TnZlRveAxB0CGh6zQ "
