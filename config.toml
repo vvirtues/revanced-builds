@@ -98,11 +98,12 @@ uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 app-name = "Sync for Reddit"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
-included-patches = "'Use /user/ endpoint'"
+included-patches = "'Use /user/ endpoint' 'Spoof client'"
 patcher-args = "-Oclient-id=mhPFEH6fpBTsSfxX1Xtl6g "
 
 [InfinityforReddit]
 app-name = "Infinity for Reddit"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
+included-patches = "'Spoof client'"
 patcher-args = "-Oclient-id=1NRa9TnZlRveAxB0CGh6zQ "
