@@ -107,3 +107,9 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 included-patches = "'Spoof client'"
 patcher-args = "-Oclient-id=1NRa9TnZlRveAxB0CGh6zQ "
+
+[Spotify]
+app-name = "Spotify"
+arch = "arm64-v8a"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+version = "auto"
