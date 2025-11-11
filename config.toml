@@ -109,3 +109,9 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 included-patches = "'Spoof client'"
 patcher-args = "-Oclient-id=1NRa9TnZlRveAxB0CGh6zQ "
+
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+version = "beta"
+included-patches = "'Enable developer menu' 'Open links externally'"
+patcher-args = "-e 'Hide navigation buttons' -OhideCreate=true"
